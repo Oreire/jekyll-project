@@ -9,58 +9,42 @@ Here are projects I've led or contributed to that embed security into developmen
 
 ## 🔑 Key Projects
 
-### 🚀 Automated CI/CD for AWS Infrastructure  
-**Tools:** Jenkins, GitHub Actions, Terraform  
-Implemented secure, modular pipelines to provision and deploy infrastructure on AWS. Streamlined release workflows and increased reliability across environments by codifying cloud resources and embedding policy enforcement.
+### 🚀 [Automated CI/CD for AWS Infrastructure](#automated-ci-cd-for-aws-infrastructure)  
+Securely orchestrated cloud provisioning and deployment workflows using Jenkins, GitHub Actions, and Terraform. Achieved modular, repeatable infrastructure with policy enforcement and zero-touch deployments.
 
-### ☸️ Kubernetes Orchestration with Self-Hosted Runners  
-**Tools:** GitHub Actions, Kubernetes  
-Orchestrated deployments using GitHub Actions and private runners. Scaled provisioning pipelines, improved automation consistency, and reduced latency in rollout processes.
+### ☸️ [Kubernetes Orchestration with Self-Hosted Runners](#kubernetes-orchestration-with-self-hosted-runners)  
+Enhanced deployment scale and consistency by integrating GitHub Actions with self-hosted runners, reducing rollout latency and boosting operational control in Kubernetes environments.
 
-### 📦 GitOps Delivery with Helm & ArgoCD  
-**Tools:** Helm, ArgoCD, Kubernetes  
-Delivered declarative application rollouts across microservices. Improved rollback precision and enabled progressive delivery in GitOps-aligned environments.
+### 📦 [GitOps Delivery with Helm & ArgoCD](#gitops-delivery-with-helm--argocd)  
+Implemented declarative microservice rollouts using Helm charts and ArgoCD. Enabled progressive delivery and precise rollback for rapid iteration in containerised stacks.
 
-### 🧪 Multi-Service Container Pipelines  
-**Tools:** Docker Compose, GitHub Actions  
-Built and tested Docker pipelines to support reliable multi-container orchestration. Accelerated integration testing and enabled consistent deployment workflows.
+### 🧪 [Multi-Service Container Pipelines](#multi-service-container-pipelines)  
+Built Docker-based CI workflows to manage multi-container stacks with consistency. Accelerated testing feedback loops and simplified service orchestration.
 
-### 🔐 IAM Governance via Terraform  
-**Tools:** Terraform  
-Designed reusable IAM modules to enforce least-privilege access across cloud workloads. Strengthened compliance alignment and simplified audit preparation.
+### 🔐 [IAM Governance via Terraform](#iam-governance-via-terraform)  
+Codified least-privilege access policies with modular Terraform code. Improved cloud security posture and compliance traceability across environments.
 
-### 🏗️ Three-Tier Web Architecture on AWS  
-**Tools:** Terraform, AWS EC2, ALB  
-Provisioned fault-tolerant, scalable web architectures including VPCs, EC2 instances, and ALBs. Enhanced application resilience and operational performance.
+### 🏗️ [Three-Tier Web Architecture on AWS](#three-tier-web-architecture-on-aws)  
+Provisioned scalable, fault-tolerant AWS architecture using Terraform. Delivered performance-tuned deployments for dynamic web applications.
 
-### 📊 Observability Stack for Real-Time Monitoring  
-**Tools:** Prometheus, Grafana, Kubernetes  
-Configured full-stack monitoring platforms to track resource metrics, alert anomalies, and reduce incident response time across containerised workloads.
+### 📊 [Observability Stack for Real-Time Monitoring](#observability-stack-for-real-time-monitoring)  
+Configured Prometheus and Grafana integrations for Kubernetes services. Enabled proactive diagnostics and reduced incident response time.
 
-### ⚙️ Hybrid Config Management Workflows  
-**Tools:** Jenkins, GitHub Actions, Ansible  
-Engineered workflows to support dynamic updates, multi-platform consistency, and low-risk rollback mechanisms.
+### ⚙️ [Hybrid Config Management Workflows](#hybrid-config-management-workflows)  
+Engineered cross-platform automation using Jenkins, GitHub Actions, and Ansible. Improved update reliability, rollback safety, and operational consistency.
 
-### 🔍 Embedded DevSecOps in CI/CD  
-**Tools:** CodeRabbit, SonarQube  
-Integrated automated code scanning into pipelines to enforce security standards, detect vulnerabilities, and promote secure development practices.
+### 🔍 [Embedded DevSecOps in CI/CD](#embedded-devsecops-in-ci-cd)  
+Integrated security tools such as CodeRabbit and SonarQube into CI pipelines. Automated code quality checks and vulnerability detection from the first commit.
 
-### 🌐 Zero-Downtime Infrastructure Rollouts  
-**Tools:** Terraform, Ansible  
-Automated infrastructure deployment across mission-critical environments. Reduced errors, improved reproducibility, and achieved resilient rollout processes.
+### 🌐 [Zero-Downtime Infrastructure Rollouts](#zero-downtime-infrastructure-rollouts)  
+Deployed mission-critical infrastructure using Terraform and Ansible. Achieved reproducible, zero-downtime rollouts with secure change management.
 
-### 💻 EC2 Cluster Provisioning with ALB  
-**Tools:** Terraform, AWS  
-Deployed scalable EC2 clusters behind ALBs to optimise cost-efficiency, fault tolerance, and performance visibility.
+### 💻 [EC2 Cluster Provisioning with ALB](#ec2-cluster-provisioning-with-alb)  
+Provisioned resilient EC2 clusters behind ALBs using Terraform. Balanced cost, reliability, and performance across high-traffic workloads.
 
-### 🛎️ Custom Monitoring Scripts  
-**Tools:** Bash  
-Authored uptime checks for websites and APIs, reducing detection time and strengthening operational awareness across production services.
+### 🛎️ [Custom Monitoring Scripts](#custom-monitoring-scripts)  
+Built Bash scripts to monitor uptime for web and API services. Reduced degradation detection time and improved operational observability.
 
-
-- 🔐 **CloudAuditGo** — an open-source tool for automated cloud compliance
-- 🚀 **Secure CI/CD Pipelines** — GitHub Actions + Terraform + mutation testing
-- 🧩 **Kubernetes Hardening Playbooks** — GitOps and SRE alignment
 
 Each project reflects a commitment to making security usable, scalable, and audit-ready.
 
