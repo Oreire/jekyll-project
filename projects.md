@@ -1,7 +1,9 @@
 ---
 layout: page
-title: My Projects & Tools
+title: Key Projects
+permalink: /projects/
 ---
+
 
 Welcome to my site — I’m Ayomide, blending security, automation, and education to empower builders of resilient systems.  
 
