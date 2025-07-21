@@ -2,7 +2,7 @@ To integrate your `project-card.html` and accompanying CSS into a Jekyll-based s
 
 ---
 
-### 📁 Recommended Folder Structure
+### 📁 The Recommended Folder Structure
 
 ```
 your-jekyll-site/
