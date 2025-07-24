@@ -45,6 +45,4 @@ This ensures your card styling is available site-wide or on any page that uses t
 %}
 ```
 
----
 
-Would you like me to help you convert all your existing project entries into this reusable format, or scaffold a dynamic grid-style layout for your homepage? You're just a few tweaks away from turning this into a sleek, modern portfolio.
